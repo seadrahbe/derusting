@@ -13,13 +13,13 @@ Each file has comments with small tasks to perform. For each task, write an impl
 Most of these taks should be easy, but there will likely be some that ask you to use a method you haven't heard of or forgot the name of. Feel free to look these up. When you come across something you needed to look up, add it to the [toRefresh.md](toRefresh.md) file so you can remember to brush up on it.
 
 ## Recommended Order
-- NumberPractice
-- ListPractice
-- ArrayPractice
-- StringPractice
-- SetPractice
-- MapPractice
-- Person.java
+- NumberPractice x
+- ListPractice x
+- ArrayPractice x
+- StringPractice x
+- SetPractice x
+- MapPractice x
+- Person.java x
 
 ## Submitting
 Make a Pull Request (PR) against the original repository. Copy the link into Canvas to submit.
